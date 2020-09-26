@@ -6,3 +6,6 @@
   - [100 Days of ML](https://github.com/NishkarshRaj/100DaysofMLCode)
   - 
  
+## Aside
+  - For [annotating images](https://github.com/rediscovery-io/remo-python)
+  - For [ML based APIs](https://github.com/bentoml/BentoML)
