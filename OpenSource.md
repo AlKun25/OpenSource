@@ -15,4 +15,4 @@
 
 
 
-  These all resources have been fetched from the official website of [_Hacktoberfest_ _2020_](https://hacktoberfest.digitalocean.com/).
+  These all resources have been fetched from the official website of _Hacktoberfest_ _2020_.
