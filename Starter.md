@@ -4,7 +4,10 @@
    
  ## ML practice
   - [100 Days of ML](https://github.com/NishkarshRaj/100DaysofMLCode)
-  - 
+  
+## Flutter
+  - [Try this out](https://github.com/anantcodes/flutter-doctor)
+  I need to make some of my own! Maybe based on standard structure like BLoC, etc or for Firebase, GraphQL.
  
 ## Aside
   - For [annotating images](https://github.com/rediscovery-io/remo-python)
