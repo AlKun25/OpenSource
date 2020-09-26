@@ -6,8 +6,8 @@
   - [100 Days of ML](https://github.com/NishkarshRaj/100DaysofMLCode)
   
 ## Flutter
-  - [Try this out](https://github.com/anantcodes/flutter-doctor)
-  I need to make some of my own! Maybe based on standard structure like BLoC, etc or for Firebase, GraphQL.
+  - [Try this out](https://github.com/anantcodes/flutter-doctor)<br>
+  I need to make some of my own! Maybe based on standard structure like _BLoC_, etc or for _Firebase, GraphQL_.
  
 ## Aside
   - For [annotating images](https://github.com/rediscovery-io/remo-python)
