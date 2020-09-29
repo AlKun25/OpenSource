@@ -12,3 +12,4 @@
 ## Aside
   - For [annotating images](https://github.com/rediscovery-io/remo-python)
   - For [ML based APIs](https://github.com/bentoml/BentoML)
+   - [Notebooks for help!!](https://github.com/donnemartin/data-science-ipython-notebooks)
