@@ -5,7 +5,7 @@
   :white_check_mark: [Your First PR](http://yourfirstpr.github.io/)<br>
   :white_check_mark: [Awesome for Beginners](https://github.com/mungell/awesome-for-beginners)<br>
   :white_check_mark: [Up For Grabs](https://up-for-grabs.net/#/)<br>
-  :white_check_mark: [Issuehub.io](http://issuehub.io/)<br>
+  :white_check_mark: [Issuehub.io](http://issuehub.pro/)<br>
   :white_check_mark: [First Timers Only](https://www.firsttimersonly.com/)<br>
   :white_check_mark: [Ovio](https://ovio.org/projects)<br>
 
